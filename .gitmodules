@@ -1,0 +1,6 @@
+[submodule "2021-advent"]
+	path = 2021-advent
+	url = https://github.com/igbanam/2021-advent
+[submodule "2020-advent"]
+	path = 2020-advent
+	url = https://github.com/igbanam/2020-advent
