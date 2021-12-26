@@ -8,19 +8,19 @@ Christmas" song, we programmers solve the 25 days of Christmas problems.
 I realized, while going through the 2021 problems, that [there's a points system
 and a stars system][2]. I am only going for the stars here. While sharpening
 programming skills, and proving mettle, feels good and brings good social
-status... I prioritize family during Christmas, so i'd be slow here. So, you may
+status... I prioritize family during Christmas, so I'd be slow here. So, you may
 not be able to use this repository to rank up during the event. Sorry; not
 sorry. This repository exists to show how I translate the problems into code to
 find their solutions.
 
-# The Setup
+## The Setup
 
 This repository is a parent repository for all the events — from 2015 til date.
 Each year is a sub-repository to separate concerns of the event itself. You can
 use this setup to read through all the code in one place. It saves the time of
-clicking through Github for all repositories.
+clicking through GitHub for all repositories.
 
-# The Runner
+## The Runner
 
 Questions in Advent of Code (henceforth a.k.a AoC) are story problems. The
 solution should take in a file (the input file) and return an answer. The answer
